@@ -26,7 +26,7 @@
 		<state name="Campeche" iso_code="CAM" country="MX" zone="North America" />
 		<state name="Chiapas" iso_code="CHP" country="MX" zone="North America" />
 		<state name="Chihuahua" iso_code="CHH" country="MX" zone="North America" />
-		<state name="Ciudad de México" iso_code="CMX" country="MX" zone="North America" />
+		<state name="Ciudad de Mexico" iso_code="CMX" country="MX" zone="North America" />
 		<state name="Coahuila" iso_code="COA" country="MX" zone="North America" />
 		<state name="Colima" iso_code="COL" country="MX" zone="North America" />
 		<state name="Durango" iso_code="DUR" country="MX" zone="North America" />
