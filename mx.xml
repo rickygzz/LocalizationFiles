@@ -19,6 +19,40 @@
 			<taxRule iso_code_country="mx" id_tax="2" />
 		</taxRulesGroup>
 	</taxes>
+	<states>
+		<state name="Aguascalientes" iso_code="AGU" country="MX" zone="North America" />
+		<state name="Baja California" iso_code="BCN" country="MX" zone="North America" />
+		<state name="Baja California Sur" iso_code="BCS" country="MX" zone="North America" />
+		<state name="Campeche" iso_code="CAM" country="MX" zone="North America" />
+		<state name="Chiapas" iso_code="CHP" country="MX" zone="North America" />
+		<state name="Chihuahua" iso_code="CHH" country="MX" zone="North America" />
+		<state name="Ciudad de México" iso_code="CMX" country="MX" zone="North America" />
+		<state name="Coahuila" iso_code="COA" country="MX" zone="North America" />
+		<state name="Colima" iso_code="COL" country="MX" zone="North America" />
+		<state name="Durango" iso_code="DUR" country="MX" zone="North America" />
+		<state name="Guanajuato" iso_code="GUA" country="MX" zone="North America" />
+		<state name="Guerrero" iso_code="GRO" country="MX" zone="North America" />
+		<state name="Hidalgo" iso_code="HID" country="MX" zone="North America" />
+		<state name="Jalisco" iso_code="JAL" country="MX" zone="North America" />
+		<state name="México" iso_code="MEX" country="MX" zone="North America" />
+		<state name="Michoacán" iso_code="MIC" country="MX" zone="North America" />
+		<state name="Morelos" iso_code="MOR" country="MX" zone="North America" />
+		<state name="Nayarit" iso_code="NAY" country="MX" zone="North America" />
+		<state name="Nuevo León" iso_code="NLE" country="MX" zone="North America" />
+		<state name="Oaxaca" iso_code="OAX" country="MX" zone="North America" />
+		<state name="Puebla" iso_code="PUE" country="MX" zone="North America" />
+		<state name="Querétaro" iso_code="QUE" country="MX" zone="North America" />
+		<state name="Quintana Roo" iso_code="ROO" country="MX" zone="North America" />
+		<state name="San Luis Potosí" iso_code="SLP" country="MX" zone="North America" />
+		<state name="Sinaloa" iso_code="SIN" country="MX" zone="North America" />
+		<state name="Sonora" iso_code="SON" country="MX" zone="North America" />
+		<state name="Tabasco" iso_code="TAB" country="MX" zone="North America" />
+		<state name="Tamaulipas" iso_code="TAM" country="MX" zone="North America" />
+		<state name="Tlaxcala" iso_code="TLA" country="MX" zone="North America" />
+		<state name="Veracruz" iso_code="VER" country="MX" zone="North America" />
+		<state name="Yucatán" iso_code="YUC" country="MX" zone="North America" />
+		<state name="Zacatecas" iso_code="ZAC" country="MX" zone="North America" />
+	</states>
 	<units>
 		<unit type="weight" value="kg" />
 		<unit type="volume" value="L" />
